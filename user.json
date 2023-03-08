@@ -1,0 +1,40 @@
+{
+    "users": [
+        {
+            "name": "Ozod",
+            "type": "Admin",
+            "age": 32,
+            "social": {
+                "instagram": "https:/www.instagram.com/id=123512",
+                "facebook": "https:/www.fb.com/id=172835"
+            }
+        },
+        {
+            "name": "Bob",
+            "type": "Regular",
+            "age": 12,
+            "social": {
+                "instagram": "https:/www.instagram.com/id=123561235",
+                "facebook": "https:/www.fb.com/id=19283712"
+            }
+        },
+        {
+            "name": "Mahmud",
+            "type": "Regular",
+            "age": 19,
+            "social": {
+                "instagram": "https:/www.instagram.com/id=12123123",
+                "facebook": "https:/www.fb.com/id=172123123"
+            }
+        },
+        {
+            "name": "Bobur",
+            "type": "Regular",
+            "age": 42,
+            "social": {
+                "instagram": "https:/www.instagram.com/id=999999",
+                "facebook": "https:/www.fb.com/id=98888888"
+            }
+        }
+    ]
+}
